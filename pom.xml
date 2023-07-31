@@ -14,7 +14,7 @@
 	<name>simpleCalculator</name>
 	<description>calculator for module &quot;Test&quot; SkyPro</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
